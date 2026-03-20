@@ -34,7 +34,7 @@ export default function WhyFenceStainingSection() {
             <img
               src="/images/fencestaining.avif"
               alt="Professionally stained wooden fence"
-              className="w-full h-full object-contain"
+              className="w-full h-full object-cover"
             />
           </div>
         </div>
